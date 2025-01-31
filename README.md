@@ -1,3 +1,4 @@
+# Arrowhead Stadium Traffic Analysis
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Technologies Used](#technologies-used)
@@ -11,8 +12,6 @@
    - [Step 5: Identifying and Mapping Congestion Points](#step-5-identifying-and-mapping-congestion-points)  
    - [Step 6: Integrating Congestion, Routes, Cameras, and DMS into a Combined Traffic Map](#step-6-integrating-congestion-routes-cameras-and-dms-into-a-combined-traffic-map)   
 6. [Conclusion](#conclusion)
-   
-# Arrowhead Stadium Traffic Analysis
 
 ## Project Overview
 This project utilizes Google Maps Directions API to analyze traffic conditions around Arrowhead Stadium during the Chiefs vs. Bills game on 01/26/25 from 12:30 PM to 6:00 PM (CST).
