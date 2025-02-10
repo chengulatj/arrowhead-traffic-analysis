@@ -26,7 +26,7 @@ The analysis focuses on:
 ---
 
 ## Technologies Used
-- Google Maps Directions API – Fetches alternative routes and travel times.
+- **Google Maps Directions API** – Fetches alternative routes and travel times.
 - **Python** – Main programming language.
 - **Folium** – Generates interactive traffic maps.
 - **Pandas** – Processes and analyzes traffic data.
